@@ -12,7 +12,6 @@ their Go imports to use this new location, which will be the canonical location 
 
 We have moved the repo in GitHub, which will allow existing importers to continue using the old
 location via GitHub's redirect.
-
 # Overview
 
 The Notary project comprises a [server](cmd/notary-server) and a [client](cmd/notary) for running and interacting
